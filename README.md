@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
+
 
 ### Project Overview
 ---
@@ -42,13 +42,13 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Skills Enhanced
 
-Power BI 
-Python (Pandas)
-Data Cleaning and Preprocessing
-Handling missing data, outliers, and data transformation
-Critical Thinking and Problem-Solving
-Attention to Detail
-Forecasting Techniques
+1.Power BI 
+2.Python (Pandas)
+3.Data Cleaning and Preprocessing
+4.Handling missing data, outliers, and data transformation
+5.Critical Thinking and Problem-Solving
+6.Attention to Detail
+7.Forecasting Techniques
 
 
 
