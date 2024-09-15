@@ -9,6 +9,8 @@
 ### Project Overview
 ---
 Developed an end-to-end data analytics solution to identify the best 11 cricket players from the 2022 T20 World Cup using real-world data. The final dashboard screenshots showing visualised data are attached below :
+![Screenshot (240)](https://github.com/user-attachments/assets/51f29eef-4c43-47c6-afe9-da9758172747)
+![Screenshot (241)](https://github.com/user-attachments/assets/ec36a9de-75c9-4215-bcde-4321522d44b3)
 
 
 
