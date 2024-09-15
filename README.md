@@ -10,7 +10,7 @@
 ---
 Developed an end-to-end data analytics solution to identify the best 11 cricket players from the 2022 T20 World Cup using real-world data. The final dashboard screenshots showing visualised data are attached below :
 
-![bar plot](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
+
 
 
 ### Data Sources
@@ -20,10 +20,10 @@ The raw data is converted to json files and then after that to csv files. Using 
 
 ### Tools
 
--> Data cleaning and transformation in Python Pandas
--> Data transformation in Power Query
--> Data modeling and building parameters using DAX
--> Build dashboard in Power BI
+1. Data cleaning and transformation in Python Pandas
+2. Data transformation in Power Query
+3. Data modeling and building parameters using DAX
+4. Build dashboard in Power BI
 
 ### Data Cleaning/Preparation
 
