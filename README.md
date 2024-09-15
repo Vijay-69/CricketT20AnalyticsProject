@@ -34,7 +34,7 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales data to answer key questions, such as:
+EDA involved exploring the processed data to answer key questions, such as:
 
 - What is the overall performance of a particular player ?
 - What are the statistics from previous matches on the basis of which a person can be selected for top 11 ?
@@ -42,13 +42,13 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Skills Enhanced
 
-1.Power BI 
-2.Python (Pandas)
-3.Data Cleaning and Preprocessing
-4.Handling missing data, outliers, and data transformation
-5.Critical Thinking and Problem-Solving
-6.Attention to Detail
-7.Forecasting Techniques
+1. Power BI 
+2. Python (Pandas)
+3. Data Cleaning and Preprocessing
+4. Handling missing data, outliers, and data transformation
+5. Critical Thinking and Problem-Solving
+6. Attention to Detail
+7. Forecasting Techniques
 
 
 
