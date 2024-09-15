@@ -15,15 +15,15 @@ Developed an end-to-end data analytics solution to identify the best 11 cricket 
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+I used bright data web scraping to collect data from espncricinfo website then performed some data transformation and cleaning in pandas.
+The raw data is converted to json files and then after that to csv files. Using these csv files the dashboard building part is done using Power BI.
 
 ### Tools
 
-- Excel - Data Cleaning
-  - [Download here](https://microsoft.com)
-- SQL Server - Data Analysis
-- PowerBI - Creating reports
-
+-> Data cleaning and transformation in Python Pandas
+-> Data transformation in Power Query
+-> Data modeling and building parameters using DAX
+-> Build dashboard in Power BI
 
 ### Data Cleaning/Preparation
 
@@ -36,26 +36,19 @@ In the initial data preparation phase, we performed the following tasks:
 
 EDA involved exploring the sales data to answer key questions, such as:
 
-- What is the overall sales trend?
-- Which products are top sellers?
-- What are the peak sales periods?
+- What is the overall performance of a particular player ?
+- What are the statistics from previous matches on the basis of which a person can be selected for top 11 ?
+- What are the strengths/weakness/requirements of individual in bowling/batting/Alrounder category ?
 
-### Data Analysis
+### Skills Enhanced
 
-Include some interesting code/features worked with
-
-```sql
-SELECT * FROM table1
-WHERE cond = 2;
-```
-
-### Results/Findings
-
-The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
-
+Power BI 
+Python (Pandas)
+Data Cleaning and Preprocessing
+Handling missing data, outliers, and data transformation
+Critical Thinking and Problem-Solving
+Attention to Detail
+Forecasting Techniques
 
 
 
